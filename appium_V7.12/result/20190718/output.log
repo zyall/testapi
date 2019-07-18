@@ -1,0 +1,65 @@
+2019-07-18 16:28:35,793 PageBase.py[line:49]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="领京豆"]') 
+2019-07-18 16:28:42,238 PageBase.py[line:49]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="双签领豆"]') 
+2019-07-18 16:28:43,302 PageBase.py[line:72]-INFO kill idevicesyslog succ
+2019-07-18 16:30:23,202 runAll.py[line:51]-INFO ******** TEST START *********
+2019-07-18 16:30:31,657 PageBase.py[line:49]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="领京豆"]') 
+2019-07-18 16:30:38,241 PageBase.py[line:49]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="双签领豆"]') 
+2019-07-18 16:30:39,275 PageBase.py[line:72]-INFO kill idevicesyslog succ
+2019-07-18 16:30:39,278 runAll.py[line:60]-INFO ******** TEST END *********
+2019-07-18 16:46:13,426 runAll.py[line:51]-INFO ******** TEST START *********
+2019-07-18 16:46:13,427 runAll.py[line:58]-ERROR name 'title' is not defined
+2019-07-18 16:46:13,428 runAll.py[line:60]-INFO ******** TEST END *********
+2019-07-18 16:46:36,261 PageBase.py[line:49]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="领京豆"]') 
+2019-07-18 16:46:40,238 PageBase.py[line:49]-INFO 查找元素第1次 False ('xpath', '//XCUIElementTypeOther[@name="双签领豆"]') 
+2019-07-18 16:46:41,484 PageBase.py[line:49]-INFO 查找元素第2次 False ('xpath', '//XCUIElementTypeOther[@name="双签领豆"]') 
+2019-07-18 16:46:42,703 PageBase.py[line:49]-INFO 查找元素第3次 False ('xpath', '//XCUIElementTypeOther[@name="双签领豆"]') 
+2019-07-18 16:46:43,963 PageBase.py[line:49]-INFO 查找元素第4次 False ('xpath', '//XCUIElementTypeOther[@name="双签领豆"]') 
+2019-07-18 16:46:45,192 PageBase.py[line:49]-INFO 查找元素第5次 False ('xpath', '//XCUIElementTypeOther[@name="双签领豆"]') 
+2019-07-18 16:46:46,458 PageBase.py[line:49]-INFO 查找元素第6次 False ('xpath', '//XCUIElementTypeOther[@name="双签领豆"]') 
+2019-07-18 16:46:47,882 PageBase.py[line:49]-INFO 查找元素第7次 False ('xpath', '//XCUIElementTypeOther[@name="双签领豆"]') 
+2019-07-18 16:46:49,190 PageBase.py[line:49]-INFO 查找元素第8次 False ('xpath', '//XCUIElementTypeOther[@name="双签领豆"]') 
+2019-07-18 16:46:50,435 PageBase.py[line:49]-INFO 查找元素第9次 False ('xpath', '//XCUIElementTypeOther[@name="双签领豆"]') 
+2019-07-18 16:46:51,696 PageBase.py[line:49]-INFO 查找元素第10次 False ('xpath', '//XCUIElementTypeOther[@name="双签领豆"]') 
+2019-07-18 16:46:56,058 PageBase.py[line:49]-INFO 查找元素第11次 True ('xpath', '//XCUIElementTypeOther[@name="双签领豆"]') 
+2019-07-18 16:46:56,161 PageBase.py[line:52]-INFO 没有找到元素 ('xpath', '//XCUIElementTypeOther[@name="双签领豆"]')
+2019-07-18 16:46:57,124 PageBase.py[line:72]-INFO kill idevicesyslog succ
+2019-07-18 16:53:02,657 PageBase.py[line:49]-INFO 查找元素第1次 False ('xpath', '//XCUIElementTypeOther[@name="领京豆"]') 
+2019-07-18 16:53:04,365 PageBase.py[line:49]-INFO 查找元素第2次 False ('xpath', '//XCUIElementTypeOther[@name="领京豆"]') 
+2019-07-18 16:53:05,903 PageBase.py[line:49]-INFO 查找元素第3次 False ('xpath', '//XCUIElementTypeOther[@name="领京豆"]') 
+2019-07-18 16:53:07,432 PageBase.py[line:49]-INFO 查找元素第4次 False ('xpath', '//XCUIElementTypeOther[@name="领京豆"]') 
+2019-07-18 16:53:10,941 PageBase.py[line:49]-INFO 查找元素第5次 True ('xpath', '//XCUIElementTypeOther[@name="领京豆"]') 
+2019-07-18 16:53:18,001 PageBase.py[line:49]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="双签领豆"]') 
+2019-07-18 16:53:19,041 PageBase.py[line:72]-INFO kill idevicesyslog succ
+2019-07-18 17:16:07,355 runAll.py[line:51]-INFO ******** TEST START *********
+2019-07-18 17:16:07,357 runAll.py[line:58]-ERROR '_TestResult' object has no attribute 'outputBuffer'
+2019-07-18 17:16:07,357 runAll.py[line:60]-INFO ******** TEST END *********
+2019-07-18 17:16:25,214 runAll.py[line:51]-INFO ******** TEST START *********
+2019-07-18 17:16:25,215 runAll.py[line:58]-ERROR '_TestResult' object has no attribute 'outputBuffer'
+2019-07-18 17:16:25,216 runAll.py[line:60]-INFO ******** TEST END *********
+2019-07-18 17:16:30,666 runAll.py[line:51]-INFO ******** TEST START *********
+2019-07-18 17:16:30,666 runAll.py[line:58]-ERROR '_TestResult' object has no attribute 'outputBuffer'
+2019-07-18 17:16:30,666 runAll.py[line:60]-INFO ******** TEST END *********
+2019-07-18 17:18:24,707 runAll.py[line:51]-INFO ******** TEST START *********
+2019-07-18 17:18:24,708 runAll.py[line:58]-ERROR '_TestResult' object has no attribute 'outputBuffer'
+2019-07-18 17:18:24,708 runAll.py[line:60]-INFO ******** TEST END *********
+2019-07-18 17:20:11,755 runAll.py[line:51]-INFO ******** TEST START *********
+2019-07-18 17:20:11,756 runAll.py[line:58]-ERROR '_TestResult' object has no attribute 'outputBuffer'
+2019-07-18 17:20:11,756 runAll.py[line:60]-INFO ******** TEST END *********
+2019-07-18 17:23:20,587 runAll.py[line:51]-INFO ******** TEST START *********
+2019-07-18 17:23:20,588 runAll.py[line:58]-ERROR '_TestResult' object has no attribute 'outputBuffer'
+2019-07-18 17:23:20,588 runAll.py[line:60]-INFO ******** TEST END *********
+2019-07-18 17:26:50,418 runAll.py[line:51]-INFO ******** TEST START *********
+2019-07-18 17:26:50,419 runAll.py[line:58]-ERROR '_TestResult' object has no attribute 'outputBuffer'
+2019-07-18 17:26:50,420 runAll.py[line:60]-INFO ******** TEST END *********
+2019-07-18 17:28:16,158 runAll.py[line:51]-INFO ******** TEST START *********
+2019-07-18 17:28:16,158 runAll.py[line:60]-INFO ******** TEST END *********
+2019-07-18 17:33:32,190 runAll.py[line:51]-INFO ******** TEST START *********
+2019-07-18 17:33:32,191 runAll.py[line:58]-ERROR '_TestResult' object has no attribute 'outputBuffer'
+2019-07-18 17:33:32,191 runAll.py[line:60]-INFO ******** TEST END *********
+2019-07-18 17:34:33,638 runAll.py[line:51]-INFO ******** TEST START *********
+2019-07-18 17:36:46,542 PageBase.py[line:48]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="领京豆"]') 
+2019-07-18 17:36:47,386 runAll.py[line:60]-INFO ******** TEST END *********
+2019-07-18 17:38:56,206 runAll.py[line:51]-INFO ******** TEST START *********
+2019-07-18 17:39:05,746 PageBase.py[line:48]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="领京豆"]') 
+2019-07-18 17:39:06,638 PageBase.py[line:71]-INFO kill idevicesyslog succ
+2019-07-18 17:39:06,639 runAll.py[line:60]-INFO ******** TEST END *********
