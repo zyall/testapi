@@ -1,8 +1,0 @@
-2019-07-18 16:28:35,793 PageBase.py[line:49]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="领京豆"]') 
-2019-07-18 16:28:42,238 PageBase.py[line:49]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="双签领豆"]') 
-2019-07-18 16:28:43,302 PageBase.py[line:72]-INFO kill idevicesyslog succ
-2019-07-18 16:30:23,202 runAll.py[line:51]-INFO ******** TEST START *********
-2019-07-18 16:30:31,657 PageBase.py[line:49]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="领京豆"]') 
-2019-07-18 16:30:38,241 PageBase.py[line:49]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="双签领豆"]') 
-2019-07-18 16:30:39,275 PageBase.py[line:72]-INFO kill idevicesyslog succ
-2019-07-18 16:30:39,278 runAll.py[line:60]-INFO ******** TEST END *********
