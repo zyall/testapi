@@ -29,7 +29,10 @@ class TestCase01(unittest.TestCase):
     def test_case_linjindou(self):
         element_linjindou = (By.XPATH,'//XCUIElementTypeOther[@name="领京豆"]')
         self.TestApp.wait_elements(*element_linjindou).click()
-    # def test_case_shuangqian(self):
+        element_qiandao = (By.XPATH, '//XCUIElementTypeOther[@name="签到领京豆"]')
+        self.TestApp.wait_elements(*element_qiandao).click()
+
+        # def test_case_shuangqian(self):
     #     element_shuangqian = (By.XPATH, '//XCUIElementTypeOther[@name="双签领豆"]')
     #     # element_quqiandao = (By.ID,"去签到")
     #     # element_quxiao = (By.ID,"取消")
