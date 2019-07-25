@@ -1,0 +1,614 @@
+2019-07-25 10:26:04,348 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/857736a8-95d2-4251-b92f-ebacee36b914/element {"using": "xpath", "value": "//XCUIElementTypeOther[@name=\"farben-homs\"]/XCUIElementTypeOther/XCUIElementTypeOther[4]/XCUIElementTypeTextField"}
+2019-07-25 10:26:07,464 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/857736a8-95d2-4251-b92f-ebacee36b914/element HTTP/1.1" 200 137
+2019-07-25 10:26:07,464 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:26:07,464 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[4]/XCUIElementTypeTextField') 
+2019-07-25 10:26:07,569 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/857736a8-95d2-4251-b92f-ebacee36b914/element/5B000000-0000-0000-0509-000000000000/click {"id": "5B000000-0000-0000-0509-000000000000"}
+2019-07-25 10:26:08,267 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/857736a8-95d2-4251-b92f-ebacee36b914/element/5B000000-0000-0000-0509-000000000000/click HTTP/1.1" 200 118
+2019-07-25 10:26:08,268 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:26:08,268 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/857736a8-95d2-4251-b92f-ebacee36b914/element {"using": "xpath", "value": "//XCUIElementTypeOther[@name=\"farben-homs\"]/XCUIElementTypeOther/XCUIElementTypeOther[4]/XCUIElementTypeTextField"}
+2019-07-25 10:26:13,117 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/857736a8-95d2-4251-b92f-ebacee36b914/element HTTP/1.1" 200 137
+2019-07-25 10:26:13,117 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:26:13,118 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[4]/XCUIElementTypeTextField') 
+2019-07-25 10:26:13,221 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/857736a8-95d2-4251-b92f-ebacee36b914/element/5B000000-0000-0000-0509-000000000000/clear {"id": "5B000000-0000-0000-0509-000000000000"}
+2019-07-25 10:26:14,547 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/857736a8-95d2-4251-b92f-ebacee36b914/element/5B000000-0000-0000-0509-000000000000/clear HTTP/1.1" 200 14
+2019-07-25 10:26:14,548 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:26:14,548 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/857736a8-95d2-4251-b92f-ebacee36b914/element {"using": "xpath", "value": "//XCUIElementTypeOther[@name=\"farben-homs\"]/XCUIElementTypeOther/XCUIElementTypeOther[4]/XCUIElementTypeTextField"}
+2019-07-25 10:26:18,579 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/857736a8-95d2-4251-b92f-ebacee36b914/element HTTP/1.1" 200 137
+2019-07-25 10:26:18,579 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:26:18,580 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[4]/XCUIElementTypeTextField') 
+2019-07-25 10:26:18,683 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/857736a8-95d2-4251-b92f-ebacee36b914/element/5B000000-0000-0000-0509-000000000000/value {"text": "06357", "value": ["0", "6", "3", "5", "7"], "id": "5B000000-0000-0000-0509-000000000000"}
+2019-07-25 10:26:19,493 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/857736a8-95d2-4251-b92f-ebacee36b914/element/5B000000-0000-0000-0509-000000000000/value HTTP/1.1" 200 14
+2019-07-25 10:26:19,493 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:26:19,494 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/857736a8-95d2-4251-b92f-ebacee36b914/element {"using": "xpath", "value": "//XCUIElementTypeOther[@name=\"farben-homs\"]/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeSecureTextField"}
+2019-07-25 10:26:23,651 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/857736a8-95d2-4251-b92f-ebacee36b914/element HTTP/1.1" 200 137
+2019-07-25 10:26:23,652 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:26:23,652 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeSecureTextField') 
+2019-07-25 10:26:23,756 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/857736a8-95d2-4251-b92f-ebacee36b914/element/5E000000-0000-0000-0509-000000000000/click {"id": "5E000000-0000-0000-0509-000000000000"}
+2019-07-25 10:26:24,456 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/857736a8-95d2-4251-b92f-ebacee36b914/element/5E000000-0000-0000-0509-000000000000/click HTTP/1.1" 200 118
+2019-07-25 10:26:24,456 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:26:24,457 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/857736a8-95d2-4251-b92f-ebacee36b914/element {"using": "xpath", "value": "//XCUIElementTypeOther[@name=\"farben-homs\"]/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeSecureTextField"}
+2019-07-25 10:26:28,647 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/857736a8-95d2-4251-b92f-ebacee36b914/element HTTP/1.1" 200 137
+2019-07-25 10:26:28,647 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:26:28,647 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeSecureTextField') 
+2019-07-25 10:26:28,751 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/857736a8-95d2-4251-b92f-ebacee36b914/element/5E000000-0000-0000-0509-000000000000/clear {"id": "5E000000-0000-0000-0509-000000000000"}
+2019-07-25 10:26:30,102 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/857736a8-95d2-4251-b92f-ebacee36b914/element/5E000000-0000-0000-0509-000000000000/clear HTTP/1.1" 200 14
+2019-07-25 10:26:30,103 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:26:30,103 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/857736a8-95d2-4251-b92f-ebacee36b914/element {"using": "xpath", "value": "//XCUIElementTypeOther[@name=\"farben-homs\"]/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeSecureTextField"}
+2019-07-25 10:26:34,198 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/857736a8-95d2-4251-b92f-ebacee36b914/element HTTP/1.1" 200 137
+2019-07-25 10:26:34,198 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:26:34,198 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeSecureTextField') 
+2019-07-25 10:26:34,302 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/857736a8-95d2-4251-b92f-ebacee36b914/element/5E000000-0000-0000-0509-000000000000/value {"text": "120347", "value": ["1", "2", "0", "3", "4", "7"], "id": "5E000000-0000-0000-0509-000000000000"}
+2019-07-25 10:26:35,119 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/857736a8-95d2-4251-b92f-ebacee36b914/element/5E000000-0000-0000-0509-000000000000/value HTTP/1.1" 200 14
+2019-07-25 10:26:35,120 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:26:35,120 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/857736a8-95d2-4251-b92f-ebacee36b914/element {"using": "xpath", "value": "//XCUIElementTypeButton[@name=\"\u767b\u5f55\"]"}
+2019-07-25 10:26:39,219 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/857736a8-95d2-4251-b92f-ebacee36b914/element HTTP/1.1" 200 137
+2019-07-25 10:26:39,220 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:26:39,222 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeButton[@name="登录"]') 
+2019-07-25 10:26:39,327 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/857736a8-95d2-4251-b92f-ebacee36b914/element/57000000-0000-0000-0509-000000000000/click {"id": "57000000-0000-0000-0509-000000000000"}
+2019-07-25 10:26:40,025 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/857736a8-95d2-4251-b92f-ebacee36b914/element/57000000-0000-0000-0509-000000000000/click HTTP/1.1" 200 118
+2019-07-25 10:26:40,026 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:26:40,068 PageBase.py[line:91]-INFO kill idevicesyslog succ
+2019-07-25 10:27:13,820 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element {"using": "xpath", "value": "//XCUIElementTypeOther[@name=\"farben-homs\"]/XCUIElementTypeOther/XCUIElementTypeOther[4]/XCUIElementTypeTextField"}
+2019-07-25 10:27:16,790 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element HTTP/1.1" 200 137
+2019-07-25 10:27:16,791 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:27:16,791 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[4]/XCUIElementTypeTextField') 
+2019-07-25 10:27:16,896 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/34000000-0000-0000-0609-000000000000/click {"id": "34000000-0000-0000-0609-000000000000"}
+2019-07-25 10:27:17,510 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/34000000-0000-0000-0609-000000000000/click HTTP/1.1" 200 118
+2019-07-25 10:27:17,511 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:27:17,511 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element {"using": "xpath", "value": "//XCUIElementTypeOther[@name=\"farben-homs\"]/XCUIElementTypeOther/XCUIElementTypeOther[4]/XCUIElementTypeTextField"}
+2019-07-25 10:27:21,919 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element HTTP/1.1" 200 137
+2019-07-25 10:27:21,920 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:27:21,920 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[4]/XCUIElementTypeTextField') 
+2019-07-25 10:27:22,024 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/34000000-0000-0000-0609-000000000000/clear {"id": "34000000-0000-0000-0609-000000000000"}
+2019-07-25 10:27:23,272 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/34000000-0000-0000-0609-000000000000/clear HTTP/1.1" 200 14
+2019-07-25 10:27:23,274 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:27:23,275 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element {"using": "xpath", "value": "//XCUIElementTypeOther[@name=\"farben-homs\"]/XCUIElementTypeOther/XCUIElementTypeOther[4]/XCUIElementTypeTextField"}
+2019-07-25 10:27:27,345 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element HTTP/1.1" 200 137
+2019-07-25 10:27:27,345 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:27:27,345 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[4]/XCUIElementTypeTextField') 
+2019-07-25 10:27:27,452 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/34000000-0000-0000-0609-000000000000/value {"text": "06357", "value": ["0", "6", "3", "5", "7"], "id": "34000000-0000-0000-0609-000000000000"}
+2019-07-25 10:27:28,265 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/34000000-0000-0000-0609-000000000000/value HTTP/1.1" 200 14
+2019-07-25 10:27:28,266 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:27:28,266 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element {"using": "xpath", "value": "//XCUIElementTypeOther[@name=\"farben-homs\"]/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeSecureTextField"}
+2019-07-25 10:27:32,431 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element HTTP/1.1" 200 137
+2019-07-25 10:27:32,432 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:27:32,433 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeSecureTextField') 
+2019-07-25 10:27:32,536 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/37000000-0000-0000-0609-000000000000/click {"id": "37000000-0000-0000-0609-000000000000"}
+2019-07-25 10:27:33,247 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/37000000-0000-0000-0609-000000000000/click HTTP/1.1" 200 118
+2019-07-25 10:27:33,248 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:27:33,248 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element {"using": "xpath", "value": "//XCUIElementTypeOther[@name=\"farben-homs\"]/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeSecureTextField"}
+2019-07-25 10:27:37,377 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element HTTP/1.1" 200 137
+2019-07-25 10:27:37,378 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:27:37,379 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeSecureTextField') 
+2019-07-25 10:27:37,484 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/37000000-0000-0000-0609-000000000000/clear {"id": "37000000-0000-0000-0609-000000000000"}
+2019-07-25 10:27:38,813 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/37000000-0000-0000-0609-000000000000/clear HTTP/1.1" 200 14
+2019-07-25 10:27:38,814 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:27:38,814 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element {"using": "xpath", "value": "//XCUIElementTypeOther[@name=\"farben-homs\"]/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeSecureTextField"}
+2019-07-25 10:27:42,902 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element HTTP/1.1" 200 137
+2019-07-25 10:27:42,904 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:27:42,905 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeSecureTextField') 
+2019-07-25 10:27:43,010 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/37000000-0000-0000-0609-000000000000/value {"text": "120347", "value": ["1", "2", "0", "3", "4", "7"], "id": "37000000-0000-0000-0609-000000000000"}
+2019-07-25 10:27:43,897 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/37000000-0000-0000-0609-000000000000/value HTTP/1.1" 200 14
+2019-07-25 10:27:43,898 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:27:43,898 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element {"using": "xpath", "value": "//XCUIElementTypeButton[@name=\"\u767b\u5f55\"]"}
+2019-07-25 10:27:48,019 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element HTTP/1.1" 200 137
+2019-07-25 10:27:48,020 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:27:48,021 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeButton[@name="登录"]') 
+2019-07-25 10:27:48,122 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/2D000000-0000-0000-0609-000000000000/click {"id": "2D000000-0000-0000-0609-000000000000"}
+2019-07-25 10:27:48,755 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/2D000000-0000-0000-0609-000000000000/click HTTP/1.1" 200 118
+2019-07-25 10:27:48,755 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:27:48,759 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element {"using": "xpath", "value": "//XCUIElementTypeOther[@name=\"farben-homs\"]/XCUIElementTypeOther/XCUIElementTypeOther[4]/XCUIElementTypeTextField"}
+2019-07-25 10:27:52,873 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element HTTP/1.1" 200 137
+2019-07-25 10:27:52,873 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:27:52,874 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[4]/XCUIElementTypeTextField') 
+2019-07-25 10:27:52,975 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/34000000-0000-0000-0609-000000000000/click {"id": "34000000-0000-0000-0609-000000000000"}
+2019-07-25 10:27:53,529 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/34000000-0000-0000-0609-000000000000/click HTTP/1.1" 200 118
+2019-07-25 10:27:53,529 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:27:53,529 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element {"using": "xpath", "value": "//XCUIElementTypeOther[@name=\"farben-homs\"]/XCUIElementTypeOther/XCUIElementTypeOther[4]/XCUIElementTypeTextField"}
+2019-07-25 10:27:58,027 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element HTTP/1.1" 200 137
+2019-07-25 10:27:58,029 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:27:58,029 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[4]/XCUIElementTypeTextField') 
+2019-07-25 10:27:58,133 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/34000000-0000-0000-0609-000000000000/clear {"id": "34000000-0000-0000-0609-000000000000"}
+2019-07-25 10:27:59,397 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/34000000-0000-0000-0609-000000000000/clear HTTP/1.1" 200 14
+2019-07-25 10:27:59,397 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:27:59,397 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element {"using": "xpath", "value": "//XCUIElementTypeOther[@name=\"farben-homs\"]/XCUIElementTypeOther/XCUIElementTypeOther[4]/XCUIElementTypeTextField"}
+2019-07-25 10:28:03,460 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element HTTP/1.1" 200 137
+2019-07-25 10:28:03,461 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:28:03,461 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[4]/XCUIElementTypeTextField') 
+2019-07-25 10:28:03,565 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/34000000-0000-0000-0609-000000000000/value {"text": "06358", "value": ["0", "6", "3", "5", "8"], "id": "34000000-0000-0000-0609-000000000000"}
+2019-07-25 10:28:04,397 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/34000000-0000-0000-0609-000000000000/value HTTP/1.1" 200 14
+2019-07-25 10:28:04,399 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:28:04,400 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element {"using": "xpath", "value": "//XCUIElementTypeOther[@name=\"farben-homs\"]/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeSecureTextField"}
+2019-07-25 10:28:08,592 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element HTTP/1.1" 200 137
+2019-07-25 10:28:08,593 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:28:08,593 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeSecureTextField') 
+2019-07-25 10:28:08,696 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/37000000-0000-0000-0609-000000000000/click {"id": "37000000-0000-0000-0609-000000000000"}
+2019-07-25 10:28:09,313 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/37000000-0000-0000-0609-000000000000/click HTTP/1.1" 200 118
+2019-07-25 10:28:09,313 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:28:09,313 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element {"using": "xpath", "value": "//XCUIElementTypeOther[@name=\"farben-homs\"]/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeSecureTextField"}
+2019-07-25 10:28:13,567 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element HTTP/1.1" 200 137
+2019-07-25 10:28:13,567 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:28:13,568 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeSecureTextField') 
+2019-07-25 10:28:13,669 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/37000000-0000-0000-0609-000000000000/clear {"id": "37000000-0000-0000-0609-000000000000"}
+2019-07-25 10:28:14,912 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/37000000-0000-0000-0609-000000000000/clear HTTP/1.1" 200 14
+2019-07-25 10:28:14,913 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:28:14,913 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element {"using": "xpath", "value": "//XCUIElementTypeOther[@name=\"farben-homs\"]/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeSecureTextField"}
+2019-07-25 10:28:19,008 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element HTTP/1.1" 200 137
+2019-07-25 10:28:19,008 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:28:19,009 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeSecureTextField') 
+2019-07-25 10:28:19,111 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/37000000-0000-0000-0609-000000000000/value {"text": "120348", "value": ["1", "2", "0", "3", "4", "8"], "id": "37000000-0000-0000-0609-000000000000"}
+2019-07-25 10:28:19,908 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/37000000-0000-0000-0609-000000000000/value HTTP/1.1" 200 14
+2019-07-25 10:28:19,909 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:28:19,909 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element {"using": "xpath", "value": "//XCUIElementTypeButton[@name=\"\u767b\u5f55\"]"}
+2019-07-25 10:28:23,986 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element HTTP/1.1" 200 137
+2019-07-25 10:28:23,986 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:28:23,986 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeButton[@name="登录"]') 
+2019-07-25 10:28:24,090 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/2D000000-0000-0000-0609-000000000000/click {"id": "2D000000-0000-0000-0609-000000000000"}
+2019-07-25 10:28:24,818 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/2D000000-0000-0000-0609-000000000000/click HTTP/1.1" 200 118
+2019-07-25 10:28:24,818 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:28:24,819 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element {"using": "xpath", "value": "//XCUIElementTypeOther[@name=\"farben-homs\"]/XCUIElementTypeOther/XCUIElementTypeOther[4]/XCUIElementTypeTextField"}
+2019-07-25 10:28:28,851 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element HTTP/1.1" 200 137
+2019-07-25 10:28:28,852 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:28:28,852 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[4]/XCUIElementTypeTextField') 
+2019-07-25 10:28:28,955 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/34000000-0000-0000-0609-000000000000/click {"id": "34000000-0000-0000-0609-000000000000"}
+2019-07-25 10:28:29,578 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/34000000-0000-0000-0609-000000000000/click HTTP/1.1" 200 118
+2019-07-25 10:28:29,578 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:28:29,579 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element {"using": "xpath", "value": "//XCUIElementTypeOther[@name=\"farben-homs\"]/XCUIElementTypeOther/XCUIElementTypeOther[4]/XCUIElementTypeTextField"}
+2019-07-25 10:28:34,055 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element HTTP/1.1" 200 137
+2019-07-25 10:28:34,056 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:28:34,056 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[4]/XCUIElementTypeTextField') 
+2019-07-25 10:28:34,161 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/34000000-0000-0000-0609-000000000000/clear {"id": "34000000-0000-0000-0609-000000000000"}
+2019-07-25 10:28:35,446 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/34000000-0000-0000-0609-000000000000/clear HTTP/1.1" 200 14
+2019-07-25 10:28:35,446 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:28:35,446 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element {"using": "xpath", "value": "//XCUIElementTypeOther[@name=\"farben-homs\"]/XCUIElementTypeOther/XCUIElementTypeOther[4]/XCUIElementTypeTextField"}
+2019-07-25 10:28:39,487 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element HTTP/1.1" 200 137
+2019-07-25 10:28:39,488 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:28:39,488 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[4]/XCUIElementTypeTextField') 
+2019-07-25 10:28:39,593 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/34000000-0000-0000-0609-000000000000/value {"text": "06359", "value": ["0", "6", "3", "5", "9"], "id": "34000000-0000-0000-0609-000000000000"}
+2019-07-25 10:28:40,407 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/34000000-0000-0000-0609-000000000000/value HTTP/1.1" 200 14
+2019-07-25 10:28:40,407 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:28:40,407 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element {"using": "xpath", "value": "//XCUIElementTypeOther[@name=\"farben-homs\"]/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeSecureTextField"}
+2019-07-25 10:28:44,640 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element HTTP/1.1" 200 137
+2019-07-25 10:28:44,641 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:28:44,641 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeSecureTextField') 
+2019-07-25 10:28:44,745 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/37000000-0000-0000-0609-000000000000/click {"id": "37000000-0000-0000-0609-000000000000"}
+2019-07-25 10:28:45,457 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/37000000-0000-0000-0609-000000000000/click HTTP/1.1" 200 118
+2019-07-25 10:28:45,457 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:28:45,457 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element {"using": "xpath", "value": "//XCUIElementTypeOther[@name=\"farben-homs\"]/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeSecureTextField"}
+2019-07-25 10:28:49,589 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element HTTP/1.1" 200 137
+2019-07-25 10:28:49,591 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:28:49,591 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeSecureTextField') 
+2019-07-25 10:28:49,696 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/37000000-0000-0000-0609-000000000000/clear {"id": "37000000-0000-0000-0609-000000000000"}
+2019-07-25 10:28:51,049 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/37000000-0000-0000-0609-000000000000/clear HTTP/1.1" 200 14
+2019-07-25 10:28:51,051 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:28:51,051 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element {"using": "xpath", "value": "//XCUIElementTypeOther[@name=\"farben-homs\"]/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeSecureTextField"}
+2019-07-25 10:28:55,209 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element HTTP/1.1" 200 137
+2019-07-25 10:28:55,210 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:28:55,210 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeSecureTextField') 
+2019-07-25 10:28:55,315 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/37000000-0000-0000-0609-000000000000/value {"text": "120349", "value": ["1", "2", "0", "3", "4", "9"], "id": "37000000-0000-0000-0609-000000000000"}
+2019-07-25 10:28:56,218 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/37000000-0000-0000-0609-000000000000/value HTTP/1.1" 200 14
+2019-07-25 10:28:56,219 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:28:56,219 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element {"using": "xpath", "value": "//XCUIElementTypeButton[@name=\"\u767b\u5f55\"]"}
+2019-07-25 10:29:00,328 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element HTTP/1.1" 200 137
+2019-07-25 10:29:00,328 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:29:00,329 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeButton[@name="登录"]') 
+2019-07-25 10:29:00,430 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/2D000000-0000-0000-0609-000000000000/click {"id": "2D000000-0000-0000-0609-000000000000"}
+2019-07-25 10:29:01,110 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/2D000000-0000-0000-0609-000000000000/click HTTP/1.1" 200 118
+2019-07-25 10:29:01,110 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:29:01,111 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element {"using": "xpath", "value": "//XCUIElementTypeOther[@name=\"farben-homs\"]/XCUIElementTypeOther/XCUIElementTypeOther[4]/XCUIElementTypeTextField"}
+2019-07-25 10:29:05,128 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element HTTP/1.1" 200 137
+2019-07-25 10:29:05,129 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:29:05,129 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[4]/XCUIElementTypeTextField') 
+2019-07-25 10:29:05,230 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/34000000-0000-0000-0609-000000000000/click {"id": "34000000-0000-0000-0609-000000000000"}
+2019-07-25 10:29:05,873 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/34000000-0000-0000-0609-000000000000/click HTTP/1.1" 200 118
+2019-07-25 10:29:05,873 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:29:05,873 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element {"using": "xpath", "value": "//XCUIElementTypeOther[@name=\"farben-homs\"]/XCUIElementTypeOther/XCUIElementTypeOther[4]/XCUIElementTypeTextField"}
+2019-07-25 10:29:10,267 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element HTTP/1.1" 200 137
+2019-07-25 10:29:10,268 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:29:10,268 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[4]/XCUIElementTypeTextField') 
+2019-07-25 10:29:10,371 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/34000000-0000-0000-0609-000000000000/clear {"id": "34000000-0000-0000-0609-000000000000"}
+2019-07-25 10:29:11,628 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/34000000-0000-0000-0609-000000000000/clear HTTP/1.1" 200 14
+2019-07-25 10:29:11,629 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:29:11,629 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element {"using": "xpath", "value": "//XCUIElementTypeOther[@name=\"farben-homs\"]/XCUIElementTypeOther/XCUIElementTypeOther[4]/XCUIElementTypeTextField"}
+2019-07-25 10:29:15,687 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element HTTP/1.1" 200 137
+2019-07-25 10:29:15,688 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:29:15,688 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[4]/XCUIElementTypeTextField') 
+2019-07-25 10:29:15,792 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/34000000-0000-0000-0609-000000000000/value {"text": "06360", "value": ["0", "6", "3", "6", "0"], "id": "34000000-0000-0000-0609-000000000000"}
+2019-07-25 10:29:16,626 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/34000000-0000-0000-0609-000000000000/value HTTP/1.1" 200 14
+2019-07-25 10:29:16,626 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:29:16,627 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element {"using": "xpath", "value": "//XCUIElementTypeOther[@name=\"farben-homs\"]/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeSecureTextField"}
+2019-07-25 10:29:20,796 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element HTTP/1.1" 200 137
+2019-07-25 10:29:20,797 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:29:20,797 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeSecureTextField') 
+2019-07-25 10:29:20,900 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/37000000-0000-0000-0609-000000000000/click {"id": "37000000-0000-0000-0609-000000000000"}
+2019-07-25 10:29:21,594 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/37000000-0000-0000-0609-000000000000/click HTTP/1.1" 200 118
+2019-07-25 10:29:21,594 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:29:21,594 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element {"using": "xpath", "value": "//XCUIElementTypeOther[@name=\"farben-homs\"]/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeSecureTextField"}
+2019-07-25 10:29:25,704 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element HTTP/1.1" 200 137
+2019-07-25 10:29:25,705 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:29:25,705 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeSecureTextField') 
+2019-07-25 10:29:25,809 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/37000000-0000-0000-0609-000000000000/clear {"id": "37000000-0000-0000-0609-000000000000"}
+2019-07-25 10:29:27,174 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/37000000-0000-0000-0609-000000000000/clear HTTP/1.1" 200 14
+2019-07-25 10:29:27,175 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:29:27,175 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element {"using": "xpath", "value": "//XCUIElementTypeOther[@name=\"farben-homs\"]/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeSecureTextField"}
+2019-07-25 10:29:31,243 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element HTTP/1.1" 200 137
+2019-07-25 10:29:31,243 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:29:31,243 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeSecureTextField') 
+2019-07-25 10:29:31,348 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/37000000-0000-0000-0609-000000000000/value {"text": "120350", "value": ["1", "2", "0", "3", "5", "0"], "id": "37000000-0000-0000-0609-000000000000"}
+2019-07-25 10:29:32,140 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/37000000-0000-0000-0609-000000000000/value HTTP/1.1" 200 14
+2019-07-25 10:29:32,141 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:29:32,141 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element {"using": "xpath", "value": "//XCUIElementTypeButton[@name=\"\u767b\u5f55\"]"}
+2019-07-25 10:29:36,242 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element HTTP/1.1" 200 137
+2019-07-25 10:29:36,242 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:29:36,243 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeButton[@name="登录"]') 
+2019-07-25 10:29:36,346 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/2D000000-0000-0000-0609-000000000000/click {"id": "2D000000-0000-0000-0609-000000000000"}
+2019-07-25 10:29:37,051 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/2D000000-0000-0000-0609-000000000000/click HTTP/1.1" 200 118
+2019-07-25 10:29:37,052 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:29:37,052 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element {"using": "xpath", "value": "//XCUIElementTypeOther[@name=\"farben-homs\"]/XCUIElementTypeOther/XCUIElementTypeOther[4]/XCUIElementTypeTextField"}
+2019-07-25 10:29:41,044 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element HTTP/1.1" 200 137
+2019-07-25 10:29:41,044 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:29:41,044 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[4]/XCUIElementTypeTextField') 
+2019-07-25 10:29:41,146 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/34000000-0000-0000-0609-000000000000/click {"id": "34000000-0000-0000-0609-000000000000"}
+2019-07-25 10:29:41,771 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/34000000-0000-0000-0609-000000000000/click HTTP/1.1" 200 118
+2019-07-25 10:29:41,772 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:29:41,772 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element {"using": "xpath", "value": "//XCUIElementTypeOther[@name=\"farben-homs\"]/XCUIElementTypeOther/XCUIElementTypeOther[4]/XCUIElementTypeTextField"}
+2019-07-25 10:29:46,232 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element HTTP/1.1" 200 137
+2019-07-25 10:29:46,233 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:29:46,233 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[4]/XCUIElementTypeTextField') 
+2019-07-25 10:29:46,336 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/34000000-0000-0000-0609-000000000000/clear {"id": "34000000-0000-0000-0609-000000000000"}
+2019-07-25 10:29:47,618 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/34000000-0000-0000-0609-000000000000/clear HTTP/1.1" 200 14
+2019-07-25 10:29:47,619 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:29:47,619 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element {"using": "xpath", "value": "//XCUIElementTypeOther[@name=\"farben-homs\"]/XCUIElementTypeOther/XCUIElementTypeOther[4]/XCUIElementTypeTextField"}
+2019-07-25 10:29:51,633 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element HTTP/1.1" 200 137
+2019-07-25 10:29:51,634 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:29:51,634 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[4]/XCUIElementTypeTextField') 
+2019-07-25 10:29:51,738 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/34000000-0000-0000-0609-000000000000/value {"text": "06361", "value": ["0", "6", "3", "6", "1"], "id": "34000000-0000-0000-0609-000000000000"}
+2019-07-25 10:29:52,663 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/34000000-0000-0000-0609-000000000000/value HTTP/1.1" 200 14
+2019-07-25 10:29:52,663 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:29:52,664 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element {"using": "xpath", "value": "//XCUIElementTypeOther[@name=\"farben-homs\"]/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeSecureTextField"}
+2019-07-25 10:29:56,855 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element HTTP/1.1" 200 137
+2019-07-25 10:29:56,855 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:29:56,855 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeSecureTextField') 
+2019-07-25 10:29:56,960 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/37000000-0000-0000-0609-000000000000/click {"id": "37000000-0000-0000-0609-000000000000"}
+2019-07-25 10:29:57,698 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/37000000-0000-0000-0609-000000000000/click HTTP/1.1" 200 118
+2019-07-25 10:29:57,698 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:29:57,698 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element {"using": "xpath", "value": "//XCUIElementTypeOther[@name=\"farben-homs\"]/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeSecureTextField"}
+2019-07-25 10:30:01,992 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element HTTP/1.1" 200 137
+2019-07-25 10:30:01,992 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:30:01,992 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeSecureTextField') 
+2019-07-25 10:30:02,095 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/37000000-0000-0000-0609-000000000000/clear {"id": "37000000-0000-0000-0609-000000000000"}
+2019-07-25 10:30:03,455 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/37000000-0000-0000-0609-000000000000/clear HTTP/1.1" 200 14
+2019-07-25 10:30:03,456 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:30:03,456 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element {"using": "xpath", "value": "//XCUIElementTypeOther[@name=\"farben-homs\"]/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeSecureTextField"}
+2019-07-25 10:30:07,543 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element HTTP/1.1" 200 137
+2019-07-25 10:30:07,544 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:30:07,544 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeSecureTextField') 
+2019-07-25 10:30:07,648 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/37000000-0000-0000-0609-000000000000/value {"text": "120351", "value": ["1", "2", "0", "3", "5", "1"], "id": "37000000-0000-0000-0609-000000000000"}
+2019-07-25 10:30:08,548 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/37000000-0000-0000-0609-000000000000/value HTTP/1.1" 200 14
+2019-07-25 10:30:08,549 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:30:08,549 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element {"using": "xpath", "value": "//XCUIElementTypeButton[@name=\"\u767b\u5f55\"]"}
+2019-07-25 10:30:12,605 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element HTTP/1.1" 200 137
+2019-07-25 10:30:12,606 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:30:12,606 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeButton[@name="登录"]') 
+2019-07-25 10:30:12,707 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/2D000000-0000-0000-0609-000000000000/click {"id": "2D000000-0000-0000-0609-000000000000"}
+2019-07-25 10:30:13,316 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/2D000000-0000-0000-0609-000000000000/click HTTP/1.1" 200 118
+2019-07-25 10:30:13,317 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:30:13,318 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element {"using": "xpath", "value": "//XCUIElementTypeOther[@name=\"farben-homs\"]/XCUIElementTypeOther/XCUIElementTypeOther[4]/XCUIElementTypeTextField"}
+2019-07-25 10:30:17,386 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element HTTP/1.1" 200 137
+2019-07-25 10:30:17,386 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:30:17,386 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[4]/XCUIElementTypeTextField') 
+2019-07-25 10:30:17,488 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/34000000-0000-0000-0609-000000000000/click {"id": "34000000-0000-0000-0609-000000000000"}
+2019-07-25 10:30:18,127 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/34000000-0000-0000-0609-000000000000/click HTTP/1.1" 200 118
+2019-07-25 10:30:18,128 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:30:18,128 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element {"using": "xpath", "value": "//XCUIElementTypeOther[@name=\"farben-homs\"]/XCUIElementTypeOther/XCUIElementTypeOther[4]/XCUIElementTypeTextField"}
+2019-07-25 10:30:22,535 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element HTTP/1.1" 200 137
+2019-07-25 10:30:22,536 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:30:22,536 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[4]/XCUIElementTypeTextField') 
+2019-07-25 10:30:22,641 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/34000000-0000-0000-0609-000000000000/clear {"id": "34000000-0000-0000-0609-000000000000"}
+2019-07-25 10:30:23,891 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/34000000-0000-0000-0609-000000000000/clear HTTP/1.1" 200 14
+2019-07-25 10:30:23,892 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:30:23,892 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element {"using": "xpath", "value": "//XCUIElementTypeOther[@name=\"farben-homs\"]/XCUIElementTypeOther/XCUIElementTypeOther[4]/XCUIElementTypeTextField"}
+2019-07-25 10:30:27,899 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element HTTP/1.1" 200 137
+2019-07-25 10:30:27,899 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:30:27,899 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[4]/XCUIElementTypeTextField') 
+2019-07-25 10:30:28,004 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/34000000-0000-0000-0609-000000000000/value {"text": "06362", "value": ["0", "6", "3", "6", "2"], "id": "34000000-0000-0000-0609-000000000000"}
+2019-07-25 10:30:28,825 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/34000000-0000-0000-0609-000000000000/value HTTP/1.1" 200 14
+2019-07-25 10:30:28,826 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:30:28,826 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element {"using": "xpath", "value": "//XCUIElementTypeOther[@name=\"farben-homs\"]/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeSecureTextField"}
+2019-07-25 10:30:32,945 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element HTTP/1.1" 200 137
+2019-07-25 10:30:32,946 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:30:32,946 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeSecureTextField') 
+2019-07-25 10:30:33,050 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/37000000-0000-0000-0609-000000000000/click {"id": "37000000-0000-0000-0609-000000000000"}
+2019-07-25 10:30:33,792 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/37000000-0000-0000-0609-000000000000/click HTTP/1.1" 200 118
+2019-07-25 10:30:33,793 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:30:33,793 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element {"using": "xpath", "value": "//XCUIElementTypeOther[@name=\"farben-homs\"]/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeSecureTextField"}
+2019-07-25 10:30:37,928 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element HTTP/1.1" 200 137
+2019-07-25 10:30:37,928 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:30:37,928 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeSecureTextField') 
+2019-07-25 10:30:38,029 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/37000000-0000-0000-0609-000000000000/clear {"id": "37000000-0000-0000-0609-000000000000"}
+2019-07-25 10:30:39,387 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/37000000-0000-0000-0609-000000000000/clear HTTP/1.1" 200 14
+2019-07-25 10:30:39,387 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:30:39,388 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element {"using": "xpath", "value": "//XCUIElementTypeOther[@name=\"farben-homs\"]/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeSecureTextField"}
+2019-07-25 10:30:43,431 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element HTTP/1.1" 200 137
+2019-07-25 10:30:43,432 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:30:43,432 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeSecureTextField') 
+2019-07-25 10:30:43,537 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/37000000-0000-0000-0609-000000000000/value {"text": "120352", "value": ["1", "2", "0", "3", "5", "2"], "id": "37000000-0000-0000-0609-000000000000"}
+2019-07-25 10:30:44,335 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/37000000-0000-0000-0609-000000000000/value HTTP/1.1" 200 14
+2019-07-25 10:30:44,336 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:30:44,337 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element {"using": "xpath", "value": "//XCUIElementTypeButton[@name=\"\u767b\u5f55\"]"}
+2019-07-25 10:30:48,398 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element HTTP/1.1" 200 137
+2019-07-25 10:30:48,399 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:30:48,399 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeButton[@name="登录"]') 
+2019-07-25 10:30:48,504 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/2D000000-0000-0000-0609-000000000000/click {"id": "2D000000-0000-0000-0609-000000000000"}
+2019-07-25 10:30:49,193 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/2D000000-0000-0000-0609-000000000000/click HTTP/1.1" 200 118
+2019-07-25 10:30:49,194 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:30:49,195 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element {"using": "xpath", "value": "//XCUIElementTypeOther[@name=\"farben-homs\"]/XCUIElementTypeOther/XCUIElementTypeOther[4]/XCUIElementTypeTextField"}
+2019-07-25 10:30:53,231 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element HTTP/1.1" 200 137
+2019-07-25 10:30:53,232 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:30:53,232 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[4]/XCUIElementTypeTextField') 
+2019-07-25 10:30:53,337 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/34000000-0000-0000-0609-000000000000/click {"id": "34000000-0000-0000-0609-000000000000"}
+2019-07-25 10:30:53,960 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/34000000-0000-0000-0609-000000000000/click HTTP/1.1" 200 118
+2019-07-25 10:30:53,961 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:30:53,961 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element {"using": "xpath", "value": "//XCUIElementTypeOther[@name=\"farben-homs\"]/XCUIElementTypeOther/XCUIElementTypeOther[4]/XCUIElementTypeTextField"}
+2019-07-25 10:30:58,423 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element HTTP/1.1" 200 137
+2019-07-25 10:30:58,426 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:30:58,427 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[4]/XCUIElementTypeTextField') 
+2019-07-25 10:30:58,530 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/34000000-0000-0000-0609-000000000000/clear {"id": "34000000-0000-0000-0609-000000000000"}
+2019-07-25 10:30:59,816 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/34000000-0000-0000-0609-000000000000/clear HTTP/1.1" 200 14
+2019-07-25 10:30:59,816 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:30:59,816 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element {"using": "xpath", "value": "//XCUIElementTypeOther[@name=\"farben-homs\"]/XCUIElementTypeOther/XCUIElementTypeOther[4]/XCUIElementTypeTextField"}
+2019-07-25 10:31:03,847 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element HTTP/1.1" 200 137
+2019-07-25 10:31:03,848 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:31:03,848 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[4]/XCUIElementTypeTextField') 
+2019-07-25 10:31:03,952 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/34000000-0000-0000-0609-000000000000/value {"text": "06363", "value": ["0", "6", "3", "6", "3"], "id": "34000000-0000-0000-0609-000000000000"}
+2019-07-25 10:31:04,868 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/34000000-0000-0000-0609-000000000000/value HTTP/1.1" 200 14
+2019-07-25 10:31:04,869 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:31:04,869 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element {"using": "xpath", "value": "//XCUIElementTypeOther[@name=\"farben-homs\"]/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeSecureTextField"}
+2019-07-25 10:31:09,088 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element HTTP/1.1" 200 137
+2019-07-25 10:31:09,088 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:31:09,088 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeSecureTextField') 
+2019-07-25 10:31:09,194 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/37000000-0000-0000-0609-000000000000/click {"id": "37000000-0000-0000-0609-000000000000"}
+2019-07-25 10:31:09,828 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/37000000-0000-0000-0609-000000000000/click HTTP/1.1" 200 118
+2019-07-25 10:31:09,828 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:31:09,828 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element {"using": "xpath", "value": "//XCUIElementTypeOther[@name=\"farben-homs\"]/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeSecureTextField"}
+2019-07-25 10:31:14,069 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element HTTP/1.1" 200 137
+2019-07-25 10:31:14,069 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:31:14,070 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeSecureTextField') 
+2019-07-25 10:31:14,173 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/37000000-0000-0000-0609-000000000000/clear {"id": "37000000-0000-0000-0609-000000000000"}
+2019-07-25 10:31:15,562 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/37000000-0000-0000-0609-000000000000/clear HTTP/1.1" 200 14
+2019-07-25 10:31:15,563 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:31:15,563 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element {"using": "xpath", "value": "//XCUIElementTypeOther[@name=\"farben-homs\"]/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeSecureTextField"}
+2019-07-25 10:31:19,634 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element HTTP/1.1" 200 137
+2019-07-25 10:31:19,635 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:31:19,636 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeSecureTextField') 
+2019-07-25 10:31:19,740 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/37000000-0000-0000-0609-000000000000/value {"text": "120353", "value": ["1", "2", "0", "3", "5", "3"], "id": "37000000-0000-0000-0609-000000000000"}
+2019-07-25 10:31:20,590 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/37000000-0000-0000-0609-000000000000/value HTTP/1.1" 200 14
+2019-07-25 10:31:20,591 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:31:20,593 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element {"using": "xpath", "value": "//XCUIElementTypeButton[@name=\"\u767b\u5f55\"]"}
+2019-07-25 10:31:24,721 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element HTTP/1.1" 200 137
+2019-07-25 10:31:24,721 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:31:24,722 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeButton[@name="登录"]') 
+2019-07-25 10:31:24,826 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/2D000000-0000-0000-0609-000000000000/click {"id": "2D000000-0000-0000-0609-000000000000"}
+2019-07-25 10:31:25,512 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/2D000000-0000-0000-0609-000000000000/click HTTP/1.1" 200 118
+2019-07-25 10:31:25,513 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:31:25,514 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element {"using": "xpath", "value": "//XCUIElementTypeOther[@name=\"farben-homs\"]/XCUIElementTypeOther/XCUIElementTypeOther[4]/XCUIElementTypeTextField"}
+2019-07-25 10:31:29,530 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element HTTP/1.1" 200 137
+2019-07-25 10:31:29,530 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:31:29,530 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[4]/XCUIElementTypeTextField') 
+2019-07-25 10:31:29,635 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/34000000-0000-0000-0609-000000000000/click {"id": "34000000-0000-0000-0609-000000000000"}
+2019-07-25 10:31:30,167 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/34000000-0000-0000-0609-000000000000/click HTTP/1.1" 200 118
+2019-07-25 10:31:30,167 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:31:30,168 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element {"using": "xpath", "value": "//XCUIElementTypeOther[@name=\"farben-homs\"]/XCUIElementTypeOther/XCUIElementTypeOther[4]/XCUIElementTypeTextField"}
+2019-07-25 10:31:34,648 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element HTTP/1.1" 200 137
+2019-07-25 10:31:34,648 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:31:34,649 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[4]/XCUIElementTypeTextField') 
+2019-07-25 10:31:34,753 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/34000000-0000-0000-0609-000000000000/clear {"id": "34000000-0000-0000-0609-000000000000"}
+2019-07-25 10:31:36,025 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/34000000-0000-0000-0609-000000000000/clear HTTP/1.1" 200 14
+2019-07-25 10:31:36,025 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:31:36,025 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element {"using": "xpath", "value": "//XCUIElementTypeOther[@name=\"farben-homs\"]/XCUIElementTypeOther/XCUIElementTypeOther[4]/XCUIElementTypeTextField"}
+2019-07-25 10:31:40,036 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element HTTP/1.1" 200 137
+2019-07-25 10:31:40,039 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:31:40,039 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[4]/XCUIElementTypeTextField') 
+2019-07-25 10:31:40,140 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/34000000-0000-0000-0609-000000000000/value {"text": "06364", "value": ["0", "6", "3", "6", "4"], "id": "34000000-0000-0000-0609-000000000000"}
+2019-07-25 10:31:40,971 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/34000000-0000-0000-0609-000000000000/value HTTP/1.1" 200 14
+2019-07-25 10:31:40,972 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:31:40,972 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element {"using": "xpath", "value": "//XCUIElementTypeOther[@name=\"farben-homs\"]/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeSecureTextField"}
+2019-07-25 10:31:45,144 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element HTTP/1.1" 200 137
+2019-07-25 10:31:45,144 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:31:45,144 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeSecureTextField') 
+2019-07-25 10:31:45,258 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/37000000-0000-0000-0609-000000000000/click {"id": "37000000-0000-0000-0609-000000000000"}
+2019-07-25 10:31:45,987 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/37000000-0000-0000-0609-000000000000/click HTTP/1.1" 200 118
+2019-07-25 10:31:45,988 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:31:45,988 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element {"using": "xpath", "value": "//XCUIElementTypeOther[@name=\"farben-homs\"]/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeSecureTextField"}
+2019-07-25 10:31:50,091 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element HTTP/1.1" 200 137
+2019-07-25 10:31:50,091 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:31:50,092 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeSecureTextField') 
+2019-07-25 10:31:50,195 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/37000000-0000-0000-0609-000000000000/clear {"id": "37000000-0000-0000-0609-000000000000"}
+2019-07-25 10:31:51,515 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/37000000-0000-0000-0609-000000000000/clear HTTP/1.1" 200 14
+2019-07-25 10:31:51,515 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:31:51,516 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element {"using": "xpath", "value": "//XCUIElementTypeOther[@name=\"farben-homs\"]/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeSecureTextField"}
+2019-07-25 10:31:55,609 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element HTTP/1.1" 200 137
+2019-07-25 10:31:55,610 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:31:55,610 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeSecureTextField') 
+2019-07-25 10:31:55,715 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/37000000-0000-0000-0609-000000000000/value {"text": "120354", "value": ["1", "2", "0", "3", "5", "4"], "id": "37000000-0000-0000-0609-000000000000"}
+2019-07-25 10:31:56,536 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/37000000-0000-0000-0609-000000000000/value HTTP/1.1" 200 14
+2019-07-25 10:31:56,537 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:31:56,537 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element {"using": "xpath", "value": "//XCUIElementTypeButton[@name=\"\u767b\u5f55\"]"}
+2019-07-25 10:32:00,660 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element HTTP/1.1" 200 137
+2019-07-25 10:32:00,662 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:32:00,662 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeButton[@name="登录"]') 
+2019-07-25 10:32:00,768 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/2D000000-0000-0000-0609-000000000000/click {"id": "2D000000-0000-0000-0609-000000000000"}
+2019-07-25 10:32:01,457 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/2D000000-0000-0000-0609-000000000000/click HTTP/1.1" 200 118
+2019-07-25 10:32:01,457 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:32:01,458 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element {"using": "xpath", "value": "//XCUIElementTypeOther[@name=\"farben-homs\"]/XCUIElementTypeOther/XCUIElementTypeOther[4]/XCUIElementTypeTextField"}
+2019-07-25 10:32:05,533 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element HTTP/1.1" 200 137
+2019-07-25 10:32:05,534 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:32:05,534 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[4]/XCUIElementTypeTextField') 
+2019-07-25 10:32:05,639 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/34000000-0000-0000-0609-000000000000/click {"id": "34000000-0000-0000-0609-000000000000"}
+2019-07-25 10:32:06,185 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/34000000-0000-0000-0609-000000000000/click HTTP/1.1" 200 118
+2019-07-25 10:32:06,186 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:32:06,186 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element {"using": "xpath", "value": "//XCUIElementTypeOther[@name=\"farben-homs\"]/XCUIElementTypeOther/XCUIElementTypeOther[4]/XCUIElementTypeTextField"}
+2019-07-25 10:32:10,708 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element HTTP/1.1" 200 137
+2019-07-25 10:32:10,709 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:32:10,709 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[4]/XCUIElementTypeTextField') 
+2019-07-25 10:32:10,814 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/34000000-0000-0000-0609-000000000000/clear {"id": "34000000-0000-0000-0609-000000000000"}
+2019-07-25 10:32:12,083 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/34000000-0000-0000-0609-000000000000/clear HTTP/1.1" 200 14
+2019-07-25 10:32:12,084 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:32:12,084 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element {"using": "xpath", "value": "//XCUIElementTypeOther[@name=\"farben-homs\"]/XCUIElementTypeOther/XCUIElementTypeOther[4]/XCUIElementTypeTextField"}
+2019-07-25 10:32:16,272 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element HTTP/1.1" 200 137
+2019-07-25 10:32:16,273 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:32:16,273 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[4]/XCUIElementTypeTextField') 
+2019-07-25 10:32:16,378 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/34000000-0000-0000-0609-000000000000/value {"text": "06365", "value": ["0", "6", "3", "6", "5"], "id": "34000000-0000-0000-0609-000000000000"}
+2019-07-25 10:32:17,196 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/34000000-0000-0000-0609-000000000000/value HTTP/1.1" 200 14
+2019-07-25 10:32:17,198 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:32:17,198 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element {"using": "xpath", "value": "//XCUIElementTypeOther[@name=\"farben-homs\"]/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeSecureTextField"}
+2019-07-25 10:32:21,354 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element HTTP/1.1" 200 137
+2019-07-25 10:32:21,354 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:32:21,354 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeSecureTextField') 
+2019-07-25 10:32:21,459 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/37000000-0000-0000-0609-000000000000/click {"id": "37000000-0000-0000-0609-000000000000"}
+2019-07-25 10:32:22,202 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/37000000-0000-0000-0609-000000000000/click HTTP/1.1" 200 118
+2019-07-25 10:32:22,203 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:32:22,203 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element {"using": "xpath", "value": "//XCUIElementTypeOther[@name=\"farben-homs\"]/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeSecureTextField"}
+2019-07-25 10:32:26,460 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element HTTP/1.1" 200 137
+2019-07-25 10:32:26,461 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:32:26,461 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeSecureTextField') 
+2019-07-25 10:32:26,562 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/37000000-0000-0000-0609-000000000000/clear {"id": "37000000-0000-0000-0609-000000000000"}
+2019-07-25 10:32:27,914 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/37000000-0000-0000-0609-000000000000/clear HTTP/1.1" 200 14
+2019-07-25 10:32:27,914 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:32:27,915 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element {"using": "xpath", "value": "//XCUIElementTypeOther[@name=\"farben-homs\"]/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeSecureTextField"}
+2019-07-25 10:32:31,979 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element HTTP/1.1" 200 137
+2019-07-25 10:32:31,980 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:32:31,980 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeSecureTextField') 
+2019-07-25 10:32:32,084 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/37000000-0000-0000-0609-000000000000/value {"text": "120355", "value": ["1", "2", "0", "3", "5", "5"], "id": "37000000-0000-0000-0609-000000000000"}
+2019-07-25 10:32:32,976 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/37000000-0000-0000-0609-000000000000/value HTTP/1.1" 200 14
+2019-07-25 10:32:32,977 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:32:32,977 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element {"using": "xpath", "value": "//XCUIElementTypeButton[@name=\"\u767b\u5f55\"]"}
+2019-07-25 10:32:37,056 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element HTTP/1.1" 200 137
+2019-07-25 10:32:37,056 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:32:37,057 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeButton[@name="登录"]') 
+2019-07-25 10:32:37,159 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/2D000000-0000-0000-0609-000000000000/click {"id": "2D000000-0000-0000-0609-000000000000"}
+2019-07-25 10:32:37,846 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/2D000000-0000-0000-0609-000000000000/click HTTP/1.1" 200 118
+2019-07-25 10:32:37,847 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:32:37,847 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element {"using": "xpath", "value": "//XCUIElementTypeOther[@name=\"farben-homs\"]/XCUIElementTypeOther/XCUIElementTypeOther[4]/XCUIElementTypeTextField"}
+2019-07-25 10:32:41,873 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element HTTP/1.1" 200 137
+2019-07-25 10:32:41,874 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:32:41,874 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[4]/XCUIElementTypeTextField') 
+2019-07-25 10:32:41,978 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/34000000-0000-0000-0609-000000000000/click {"id": "34000000-0000-0000-0609-000000000000"}
+2019-07-25 10:32:42,603 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/34000000-0000-0000-0609-000000000000/click HTTP/1.1" 200 118
+2019-07-25 10:32:42,604 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:32:42,604 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element {"using": "xpath", "value": "//XCUIElementTypeOther[@name=\"farben-homs\"]/XCUIElementTypeOther/XCUIElementTypeOther[4]/XCUIElementTypeTextField"}
+2019-07-25 10:32:47,066 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element HTTP/1.1" 200 137
+2019-07-25 10:32:47,067 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:32:47,067 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[4]/XCUIElementTypeTextField') 
+2019-07-25 10:32:47,171 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/34000000-0000-0000-0609-000000000000/clear {"id": "34000000-0000-0000-0609-000000000000"}
+2019-07-25 10:32:48,424 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/34000000-0000-0000-0609-000000000000/clear HTTP/1.1" 200 14
+2019-07-25 10:32:48,424 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:32:48,425 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element {"using": "xpath", "value": "//XCUIElementTypeOther[@name=\"farben-homs\"]/XCUIElementTypeOther/XCUIElementTypeOther[4]/XCUIElementTypeTextField"}
+2019-07-25 10:32:52,438 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element HTTP/1.1" 200 137
+2019-07-25 10:32:52,440 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:32:52,440 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[4]/XCUIElementTypeTextField') 
+2019-07-25 10:32:52,540 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/34000000-0000-0000-0609-000000000000/value {"text": "06366", "value": ["0", "6", "3", "6", "6"], "id": "34000000-0000-0000-0609-000000000000"}
+2019-07-25 10:32:53,536 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/34000000-0000-0000-0609-000000000000/value HTTP/1.1" 200 14
+2019-07-25 10:32:53,536 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:32:53,536 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element {"using": "xpath", "value": "//XCUIElementTypeOther[@name=\"farben-homs\"]/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeSecureTextField"}
+2019-07-25 10:32:57,699 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element HTTP/1.1" 200 137
+2019-07-25 10:32:57,700 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:32:57,700 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeSecureTextField') 
+2019-07-25 10:32:57,802 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/37000000-0000-0000-0609-000000000000/click {"id": "37000000-0000-0000-0609-000000000000"}
+2019-07-25 10:32:58,562 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/37000000-0000-0000-0609-000000000000/click HTTP/1.1" 200 118
+2019-07-25 10:32:58,562 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:32:58,562 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element {"using": "xpath", "value": "//XCUIElementTypeOther[@name=\"farben-homs\"]/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeSecureTextField"}
+2019-07-25 10:33:02,640 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element HTTP/1.1" 200 137
+2019-07-25 10:33:02,640 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:33:02,640 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeSecureTextField') 
+2019-07-25 10:33:02,745 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/37000000-0000-0000-0609-000000000000/clear {"id": "37000000-0000-0000-0609-000000000000"}
+2019-07-25 10:33:04,098 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/37000000-0000-0000-0609-000000000000/clear HTTP/1.1" 200 14
+2019-07-25 10:33:04,099 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:33:04,099 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element {"using": "xpath", "value": "//XCUIElementTypeOther[@name=\"farben-homs\"]/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeSecureTextField"}
+2019-07-25 10:33:08,155 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element HTTP/1.1" 200 137
+2019-07-25 10:33:08,155 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:33:08,155 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeSecureTextField') 
+2019-07-25 10:33:08,259 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/37000000-0000-0000-0609-000000000000/value {"text": "120356", "value": ["1", "2", "0", "3", "5", "6"], "id": "37000000-0000-0000-0609-000000000000"}
+2019-07-25 10:33:09,045 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/37000000-0000-0000-0609-000000000000/value HTTP/1.1" 200 14
+2019-07-25 10:33:09,046 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:33:09,046 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element {"using": "xpath", "value": "//XCUIElementTypeButton[@name=\"\u767b\u5f55\"]"}
+2019-07-25 10:33:13,091 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element HTTP/1.1" 200 137
+2019-07-25 10:33:13,092 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:33:13,092 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeButton[@name="登录"]') 
+2019-07-25 10:33:13,197 remote_connection.py[line:388]-DEBUG POST http://127.0.0.1:4723/wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/2D000000-0000-0000-0609-000000000000/click {"id": "2D000000-0000-0000-0609-000000000000"}
+2019-07-25 10:33:13,891 connectionpool.py[line:396]-DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/ab840501-cafb-40fb-aae6-a4b1c2570357/element/2D000000-0000-0000-0609-000000000000/click HTTP/1.1" 200 118
+2019-07-25 10:33:13,892 remote_connection.py[line:440]-DEBUG Finished Request
+2019-07-25 10:33:13,924 PageBase.py[line:91]-INFO kill idevicesyslog succ
+2019-07-25 10:33:32,335 runAll.py[line:51]-INFO ******** TEST START *********
+2019-07-25 10:33:39,399 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[4]/XCUIElementTypeTextField') 
+2019-07-25 10:33:44,606 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[4]/XCUIElementTypeTextField') 
+2019-07-25 10:33:50,144 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[4]/XCUIElementTypeTextField') 
+2019-07-25 10:33:55,285 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeSecureTextField') 
+2019-07-25 10:34:00,294 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeSecureTextField') 
+2019-07-25 10:34:05,927 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeSecureTextField') 
+2019-07-25 10:34:10,934 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeButton[@name="登录"]') 
+2019-07-25 10:34:15,827 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[4]/XCUIElementTypeTextField') 
+2019-07-25 10:34:21,031 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[4]/XCUIElementTypeTextField') 
+2019-07-25 10:34:26,439 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[4]/XCUIElementTypeTextField') 
+2019-07-25 10:34:31,574 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeSecureTextField') 
+2019-07-25 10:34:36,540 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeSecureTextField') 
+2019-07-25 10:34:42,052 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeSecureTextField') 
+2019-07-25 10:34:47,034 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeButton[@name="登录"]') 
+2019-07-25 10:34:51,842 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[4]/XCUIElementTypeTextField') 
+2019-07-25 10:34:57,013 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[4]/XCUIElementTypeTextField') 
+2019-07-25 10:35:02,424 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[4]/XCUIElementTypeTextField') 
+2019-07-25 10:35:07,617 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeSecureTextField') 
+2019-07-25 10:35:12,620 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeSecureTextField') 
+2019-07-25 10:35:18,141 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeSecureTextField') 
+2019-07-25 10:35:23,132 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeButton[@name="登录"]') 
+2019-07-25 10:35:27,958 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[4]/XCUIElementTypeTextField') 
+2019-07-25 10:35:33,170 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[4]/XCUIElementTypeTextField') 
+2019-07-25 10:35:38,578 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[4]/XCUIElementTypeTextField') 
+2019-07-25 10:35:43,654 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeSecureTextField') 
+2019-07-25 10:35:48,644 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeSecureTextField') 
+2019-07-25 10:35:54,221 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeSecureTextField') 
+2019-07-25 10:35:59,357 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeButton[@name="登录"]') 
+2019-07-25 10:36:04,163 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[4]/XCUIElementTypeTextField') 
+2019-07-25 10:36:09,425 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[4]/XCUIElementTypeTextField') 
+2019-07-25 10:36:14,940 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[4]/XCUIElementTypeTextField') 
+2019-07-25 10:36:20,110 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeSecureTextField') 
+2019-07-25 10:36:25,073 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeSecureTextField') 
+2019-07-25 10:36:30,596 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeSecureTextField') 
+2019-07-25 10:36:35,632 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeButton[@name="登录"]') 
+2019-07-25 10:36:40,470 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[4]/XCUIElementTypeTextField') 
+2019-07-25 10:36:45,651 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[4]/XCUIElementTypeTextField') 
+2019-07-25 10:36:51,099 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[4]/XCUIElementTypeTextField') 
+2019-07-25 10:36:56,214 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeSecureTextField') 
+2019-07-25 10:37:01,205 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeSecureTextField') 
+2019-07-25 10:37:06,770 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeSecureTextField') 
+2019-07-25 10:37:11,803 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeButton[@name="登录"]') 
+2019-07-25 10:37:16,708 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[4]/XCUIElementTypeTextField') 
+2019-07-25 10:37:21,909 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[4]/XCUIElementTypeTextField') 
+2019-07-25 10:37:27,318 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[4]/XCUIElementTypeTextField') 
+2019-07-25 10:37:32,411 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeSecureTextField') 
+2019-07-25 10:37:37,405 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeSecureTextField') 
+2019-07-25 10:37:42,919 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeSecureTextField') 
+2019-07-25 10:37:48,018 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeButton[@name="登录"]') 
+2019-07-25 10:37:52,812 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[4]/XCUIElementTypeTextField') 
+2019-07-25 10:37:58,176 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[4]/XCUIElementTypeTextField') 
+2019-07-25 10:38:03,534 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[4]/XCUIElementTypeTextField') 
+2019-07-25 10:38:08,658 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeSecureTextField') 
+2019-07-25 10:38:13,626 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeSecureTextField') 
+2019-07-25 10:38:19,289 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeSecureTextField') 
+2019-07-25 10:38:24,355 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeButton[@name="登录"]') 
+2019-07-25 10:38:29,179 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[4]/XCUIElementTypeTextField') 
+2019-07-25 10:38:34,375 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[4]/XCUIElementTypeTextField') 
+2019-07-25 10:38:39,849 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[4]/XCUIElementTypeTextField') 
+2019-07-25 10:38:44,961 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeSecureTextField') 
+2019-07-25 10:38:49,921 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeSecureTextField') 
+2019-07-25 10:38:55,516 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeSecureTextField') 
+2019-07-25 10:39:00,585 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeButton[@name="登录"]') 
+2019-07-25 10:39:05,415 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[4]/XCUIElementTypeTextField') 
+2019-07-25 10:39:10,546 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[4]/XCUIElementTypeTextField') 
+2019-07-25 10:39:15,925 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[4]/XCUIElementTypeTextField') 
+2019-07-25 10:39:21,018 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeSecureTextField') 
+2019-07-25 10:39:25,921 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeSecureTextField') 
+2019-07-25 10:39:31,409 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeOther[@name="farben-homs"]/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeSecureTextField') 
+2019-07-25 10:39:36,337 PageBase.py[line:32]-INFO 查找元素第1次 True ('xpath', '//XCUIElementTypeButton[@name="登录"]') 
+2019-07-25 10:39:37,174 PageBase.py[line:91]-INFO kill idevicesyslog succ
+2019-07-25 10:39:37,175 runAll.py[line:60]-INFO ******** TEST END *********
